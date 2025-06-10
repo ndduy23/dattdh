@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Enemy
+  - player
+  - Onewayplatfrom
+  - PowerUp
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - back
+  - suface
+  - Ground
+  - ..
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 3275342709
+    locked: 0
+  - name: midlle 1
+    uniqueID: 4155713049
+    locked: 0
+  - name: midlle
+    uniqueID: 2000512921
+    locked: 0
+  - name: suface
+    uniqueID: 1349826733
+    locked: 0
+  - name: player
+    uniqueID: 415909513
+    locked: 0
+  - name: item
+    uniqueID: 96675141
+    locked: 0
+  - name: enemy
+    uniqueID: 3822142583
+    locked: 0
